@@ -1,4 +1,4 @@
-package curso.java.gabrielluccamarsola;
+package curso.java.gabrielluccamarsola.fundamentos;
 
 public class OperacoesLogicasAninhadas {
 	public static void main(String[] args) {

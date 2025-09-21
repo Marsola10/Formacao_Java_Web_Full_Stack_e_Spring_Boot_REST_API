@@ -1,4 +1,4 @@
-package curso.java.gabrielluccamarsola;
+package curso.java.gabrielluccamarsola.fundamentos;
 
 public class OperacoesLogicasIfAndElse {
 	// Main é um método executável em Java
